@@ -18,6 +18,8 @@ creator:
     - http://it.wikipedia.org/wiki/Olindo_Guerrini
     - http://en.wikipedia.org/wiki/Olindo_Guerrini
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17847#Rime-di-Argia-Sbolenficon-prefazione-di-Lorenzo-Stecchetti
 gutenberg_bookshelf: IT Poesia
 gutenberg_issued: '2006-02-24'
 gutenberg_type: Text
